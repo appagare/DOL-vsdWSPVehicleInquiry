@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "vsdWSPVehicleInquiry", "vsdWSPVehicleInquiry.vbproj", "{031C75F6-C3A8-422A-9598-27F46BEEEDBB}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccProjectName0 = \u0022$/Mark\u0020Lund/Vehicles/Service/vsdWSPVehicleInquiry\u0022,\u0020LNABAAAA
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		CanCheckoutShared = false
+		SolutionUniqueID = {5ECA75D6-4E39-4804-9435-CD5EF345B95D}
+		SccProjectUniqueName1 = vsdWSPVehicleInquiry.vbproj
+		SccLocalPath1 = .
+		CanCheckoutShared = false
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{031C75F6-C3A8-422A-9598-27F46BEEEDBB}.Debug.ActiveCfg = Debug|.NET
+		{031C75F6-C3A8-422A-9598-27F46BEEEDBB}.Debug.Build.0 = Debug|.NET
+		{031C75F6-C3A8-422A-9598-27F46BEEEDBB}.Release.ActiveCfg = Release|.NET
+		{031C75F6-C3A8-422A-9598-27F46BEEEDBB}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:s0="http://tempuri.org/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" targetNamespace="http://tempuri.org/" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="CallMAXSM">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="INPUTVAL" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CallMAXSMResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CallMAXSMResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CallMAXSO">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="INPUTVAL" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CallMAXSOResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CallMAXSOResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CallMVBWSP">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="INPUTVAL" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CallMVBWSPResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CallMVBWSPResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </types>
+  <message name="CallMAXSMSoapIn">
+    <part name="parameters" element="s0:CallMAXSM" />
+  </message>
+  <message name="CallMAXSMSoapOut">
+    <part name="parameters" element="s0:CallMAXSMResponse" />
+  </message>
+  <message name="CallMAXSOSoapIn">
+    <part name="parameters" element="s0:CallMAXSO" />
+  </message>
+  <message name="CallMAXSOSoapOut">
+    <part name="parameters" element="s0:CallMAXSOResponse" />
+  </message>
+  <message name="CallMVBWSPSoapIn">
+    <part name="parameters" element="s0:CallMVBWSP" />
+  </message>
+  <message name="CallMVBWSPSoapOut">
+    <part name="parameters" element="s0:CallMVBWSPResponse" />
+  </message>
+  <portType name="Service1Soap">
+    <operation name="CallMAXSM">
+      <input message="s0:CallMAXSMSoapIn" />
+      <output message="s0:CallMAXSMSoapOut" />
+    </operation>
+    <operation name="CallMAXSO">
+      <input message="s0:CallMAXSOSoapIn" />
+      <output message="s0:CallMAXSOSoapOut" />
+    </operation>
+    <operation name="CallMVBWSP">
+      <input message="s0:CallMVBWSPSoapIn" />
+      <output message="s0:CallMVBWSPSoapOut" />
+    </operation>
+  </portType>
+  <binding name="Service1Soap" type="s0:Service1Soap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document" />
+    <operation name="CallMAXSM">
+      <soap:operation soapAction="http://tempuri.org/CallMAXSM" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="CallMAXSO">
+      <soap:operation soapAction="http://tempuri.org/CallMAXSO" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="CallMVBWSP">
+      <soap:operation soapAction="http://tempuri.org/CallMVBWSP" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+  </binding>
+  <service name="Service1">
+    <port name="Service1Soap" binding="s0:Service1Soap">
+      <soap:address location="http://localhost/MyWebService/Service1.asmx" />
+    </port>
+  </service>
+</definitions>

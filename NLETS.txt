@@ -1,0 +1,320 @@
+06/18/2004 10:17  Sent by ACCS7,
+       User ID: PAULSON
+
+S;RV..426PAR
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+06/18/2004 10:17  Received by WWCIC,
+       NO User ID
+
+QV
+
+
+    
+LIC/426PAR
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+06/18/2004 10:17  Sent by WWCIC,
+       NO User ID
+
+WWCIC    ACCS7.QV.WAWSP0007.LIC/426PAR
+NO WACIC WANTED, MISSING, PROTECTION ORDER,
+DOC CUSTODY STATUS, SOR, OR VEHICLE/VEHICLE PART
+OR WATCH YOUR CAR RECORDS FOUND
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+06/18/2004 10:17  Received by ACCS7,
+       User ID: PAULSON
+
+    
+
+
+QV.WAWSP0007.LIC/426PAR
+NO WACIC WANTED, MISSING, PROTECTION ORDER,
+DOC CUSTODY STATUS, SOR, OR VEHICLE/VEHICLE PART
+OR WATCH YOUR CAR RECORDS FOUND
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+06/18/2004 10:17  Received by DOL,
+       NO User ID
+
+L
+
+
+    
+426PAR
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+06/18/2004 10:17  Sent by DOL,
+       NO User ID
+
+DOL      ACCS7.L.WAWSP0007.LIC/426PAR                           
+
+VIN/JTDBT123820212029                
+.VYR/2002.VMA/TOYO .VMO/ECHO  
+EXP DATE/08-17-2004                TAB# IS  F673020 04             
+PAULSON,KATHY E                    PREV TAB Y617800 03             
+1908 EASTSIDE ST SE                PLATE ISSUE DATE/ 09-2002       
+OLYMPIA,WA,98501                   FIRST COLOR IS  RED             
+TMCC                               SECOND COLOR IS NO COLOR        
+PO BOX 105386                                                      
+ATLANTA,GA,30348                                                   
+TITLE/ 09-03-2002  0224643627                                      
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+06/18/2004 10:17  Received by ACCS7,
+       User ID: PAULSON
+
+    
+L.WAWSP00
+
+07.LIC/426PAR
+
+VIN/JTDBT123820212029
+.VYR/2002.VMA/TOYO .VMO/ECHO
+EXP DATE/08-17-2004                TAB# IS  F673020 04
+PAULSON,KATHY E                    PREV TAB Y617800 03
+1908 EASTSIDE ST SE                PLATE ISSUE DATE/ 09-2002
+OLYMPIA,WA,98501                   FIRST COLOR IS  RED
+TMCC                               SECOND COLOR IS NO COLOR
+PO BOX 105386
+ATLANTA,GA,30348
+TITLE/ 09-03-2002  0224643627
+WAWSP0007
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+06/18/2004 10:18  Sent by ACCS7,
+       User ID: PAULSON
+
+D;L..426PAR
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+06/18/2004 10:18  Received by DOL,
+       NO User ID
+
+L
+
+
+    
+426PAR
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+06/18/2004 10:18  Sent by DOL,
+       NO User ID
+
+DOL      ACCS7.L.WAWSP0007.LIC/426PAR                           
+
+VIN/JTDBT123820212029                
+.VYR/2002.VMA/TOYO .VMO/ECHO  
+EXP DATE/08-17-2004                TAB# IS  F673020 04             
+PAULSON,KATHY E                    PREV TAB Y617800 03             
+1908 EASTSIDE ST SE                PLATE ISSUE DATE/ 09-2002       
+OLYMPIA,WA,98501                   FIRST COLOR IS  RED             
+TMCC                               SECOND COLOR IS NO COLOR        
+PO BOX 105386                                                      
+ATLANTA,GA,30348                                                   
+TITLE/ 09-03-2002  0224643627                                      
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+06/18/2004 10:18  Received by ACCS7,
+       User ID: PAULSON
+
+    
+L.WAWSP00
+
+07.LIC/426PAR
+
+VIN/JTDBT123820212029
+.VYR/2002.VMA/TOYO .VMO/ECHO
+EXP DATE/08-17-2004                TAB# IS  F673020 04
+PAULSON,KATHY E                    PREV TAB Y617800 03
+1908 EASTSIDE ST SE                PLATE ISSUE DATE/ 09-2002
+OLYMPIA,WA,98501                   FIRST COLOR IS  RED
+TMCC                               SECOND COLOR IS NO COLOR
+PO BOX 105386
+ATLANTA,GA,30348
+TITLE/ 09-03-2002  0224643627
+WAWSP0007
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+06/18/2004 10:20  Sent by ACCS7,
+       User ID: PAULSON
+
+D;V..JTDBT123820212029
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+06/18/2004 10:20  Received by DOL,
+       NO User ID
+
+V
+
+
+    
+JTDBT123820212029
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+06/18/2004 10:20  Sent by DOL,
+       NO User ID
+
+DOL      ACCS7.V.WAWSP0007.VIN/JTDBT123820212029                
+
+LIC/426PAR                           
+.VYR/2002.VMA/TOYO .VMO/ECHO  
+EXP DATE/08-17-2004                TAB# IS  F673020 04             
+PAULSON,KATHY E                    PREV TAB Y617800 03             
+1908 EASTSIDE ST SE                PLATE ISSUE DATE/ 09-2002       
+OLYMPIA,WA,98501                   FIRST COLOR IS  RED             
+TMCC                               SECOND COLOR IS NO COLOR        
+PO BOX 105386                                                      
+ATLANTA,GA,30348                                                   
+TITLE/ 09-03-2002  0224643627                                      
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+06/18/2004 10:20  Received by ACCS7,
+       User ID: PAULSON
+
+    
+V.WAWSP00
+
+07.VIN/JTDBT123820212029
+
+LIC/426PAR
+.VYR/2002.VMA/TOYO .VMO/ECHO
+EXP DATE/08-17-2004                TAB# IS  F673020 04
+PAULSON,KATHY E                    PREV TAB Y617800 03
+1908 EASTSIDE ST SE                PLATE ISSUE DATE/ 09-2002
+OLYMPIA,WA,98501                   FIRST COLOR IS  RED
+TMCC                               SECOND COLOR IS NO COLOR
+PO BOX 105386
+ATLANTA,GA,30348
+TITLE/ 09-03-2002  0224643627
+WAWSP0007
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+06/18/2004 10:22  Sent by NLETS,
+       NO User ID
+
+
+RQ.AZNLETS20
+10:22 06/18/2004 00007
+10:22 06/18/2004 05735 WA
+TXT
+LIC/426PAR.LIY/2004.LIT/PC
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+06/18/2004 10:22  Received by DOL,
+       NO User ID
+
+RQ
+WA
+
+
+TXTLIC/426PAR.LIY/
+
+20
+04
+.LIT/PC
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+06/18/2004 10:22  Sent by DOL,
+       NO User ID
+
+DOL      NLETS.RR..AZNLETS20.LIC/426PAR                           
+
+VIN/JTDBT123820212029                
+.VYR/2002.VMA/TOYO .VMO/ECHO  
+EXP DATE/08-17-2004                TAB# IS  F673020 04             
+PAULSON,KATHY E                    PREV TAB Y617800 03             
+1908 EASTSIDE ST SE                PLATE ISSUE DATE/ 09-2002       
+OLYMPIA,WA,98501                   FIRST COLOR IS  RED             
+TMCC                               SECOND COLOR IS NO COLOR        
+PO BOX 105386                                                      
+ATLANTA,GA,30348                                                   
+TITLE/ 09-03-2002  0224643627                                      
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+06/18/2004 10:22  Received by NLETS,
+       NO User ID
+
+RR
+AZNLETS20
+
+
+LIC/426PAR
+
+VIN/JTDBT123820212029
+.VYR/2002.VMA/TOYO .VMO/ECHO
+EXP DATE/08-17-2004                TAB# IS  F673020 04
+PAULSON,KATHY E                    PREV TAB Y617800 03
+1908 EASTSIDE ST SE                PLATE ISSUE DATE/ 09-2002
+OLYMPIA,WA,98501                   FIRST COLOR IS  RED
+TMCC                               SECOND COLOR IS NO COLOR
+PO BOX 105386
+ATLANTA,GA,30348
+TITLE/ 09-03-2002  0224643627
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+06/18/2004 10:23  Sent by NLETS,
+       NO User ID
+
+
+RQ.AZNLETS20
+10:23 06/18/2004 00008
+10:23 06/18/2004 05743 WA
+TXT
+VIN/JTDBT123820212029
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+06/18/2004 10:23  Received by DOL,
+       NO User ID
+
+RQ
+
+
+WA
+TXTVIN/JTDBT123820212029
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+06/18/2004 10:23  Sent by DOL,
+       NO User ID
+
+DOL      NLETS.RR..AZNLETS20.VIN/JTDBT123820212029                
+
+LIC/426PAR                           
+.VYR/2002.VMA/TOYO .VMO/ECHO  
+EXP DATE/08-17-2004                TAB# IS  F673020 04             
+PAULSON,KATHY E                    PREV TAB Y617800 03             
+1908 EASTSIDE ST SE                PLATE ISSUE DATE/ 09-2002       
+OLYMPIA,WA,98501                   FIRST COLOR IS  RED             
+TMCC                               SECOND COLOR IS NO COLOR        
+PO BOX 105386                                                      
+ATLANTA,GA,30348                                                   
+TITLE/ 09-03-2002  0224643627                                      
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+06/18/2004 10:23  Received by NLETS,
+       NO User ID
+
+RR
+AZNLETS20
+
+
+VIN/JTDBT123820212029
+
+LIC/426PAR
+.VYR/2002.VMA/TOYO .VMO/ECHO
+EXP DATE/08-17-2004                TAB# IS  F673020 04
+PAULSON,KATHY E                    PREV TAB Y617800 03
+1908 EASTSIDE ST SE                PLATE ISSUE DATE/ 09-2002
+OLYMPIA,WA,98501                   FIRST COLOR IS  RED
+TMCC                               SECOND COLOR IS NO COLOR
+PO BOX 105386
+ATLANTA,GA,30348
+TITLE/ 09-03-2002  0224643627
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
